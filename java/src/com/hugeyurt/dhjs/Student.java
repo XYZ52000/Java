@@ -7,6 +7,7 @@ public class Student
 	private String pwd;
 	private Integer age;
 	private Integer count;
+	//test 1232;
 	
 	public String getSno() {
 		return sno;
